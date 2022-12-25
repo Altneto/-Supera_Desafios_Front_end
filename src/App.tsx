@@ -1,7 +1,18 @@
+import {
+  BrowserRouter,
+  Routes,
+  Route
+} from "react-router-dom"
+
+import Extrato from "./pages/Extrato";
 
 function App() {
   return (
-    <h1>Pagina Inicial</h1>
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Extrato/>}/>
+      </Routes>
+    </BrowserRouter>
   );
 }
 

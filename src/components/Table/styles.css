@@ -1,0 +1,29 @@
+table {
+    border:1px solid black;
+}
+
+th {
+    border:1px solid black;
+    width: 200px
+}
+
+td {
+    border:1px solid black;
+}
+
+.supera-saldo {
+    border:1px solid black;
+    display: flex;
+    margin-top: 50px;
+}
+
+.supera-paginacao {
+    border:1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.supera-text {
+    margin-left: 10px;
+}

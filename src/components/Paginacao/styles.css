@@ -1,0 +1,14 @@
+.supera_paginacao {
+    display: inline-block;
+}
+
+li {
+    display: inline;
+}
+
+a {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+}

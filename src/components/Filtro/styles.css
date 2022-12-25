@@ -1,0 +1,16 @@
+.supera-filtro {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.supera-Pesquisar-botao {
+    margin-top: 50px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.supera-input {
+    display: flex;
+    flex-direction: column;
+}
