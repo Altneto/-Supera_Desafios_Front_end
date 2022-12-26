@@ -6,7 +6,6 @@ function Extrato() {
     return (
         <>
             <Filtro />
-            <Table />
         </>
     )
 }

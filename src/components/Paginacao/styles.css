@@ -2,8 +2,15 @@
     display: inline-block;
 }
 
+.supera_button {
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+
 li {
     display: inline;
+    padding: 5px;
 }
 
 a {
